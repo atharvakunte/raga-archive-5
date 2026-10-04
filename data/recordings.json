@@ -42,5 +42,31 @@
         "lyrics_roman": "mandara baajo re baajo re\nbaajo re ghaneraa |\n\nmohammadashaaha piyaa mana ke darasavaa\nsadaaraMga ghara kaajo re baajo re ||"
       }
     ]
+  },
+  {
+    "id": "bihag-raag-bihag-pt-vinayak-torvi",
+    "raga": "bihag",
+    "title": "Raag Bihag - Pt. Vinayak Torvi",
+    "artist": "Pt. Vinayak Torvi",
+    "instrument": "Vocal",
+    "youtube": "https://youtu.be/-0DaW1xDoRU?si=XwS17f2Q02NY_-dF",
+    "bandishes": [
+      {
+        "title": "Kaise sukh sove",
+        "taal": "Ektaal",
+        "laya": "Vilambit laya",
+        "composer": "Niyamat Khan 'Sadarang'",
+        "lyrics": "कैसे सुख सोवे नींदरिया\nश्याम मूरत चित चढी ।\n\nसोचे सोचे सदारंग अकुलावे\nया बिध गांठ परी ॥",
+        "lyrics_roman": "kaise sukha sove neeMdariyaa\nshyaama moorata chita chaDhee |\n\nsoche soche sadaaraMga akulaave\nyaa bidha gaaMTha paree ||"
+      },
+      {
+        "title": "Balam re more man ke",
+        "taal": "Teentaal",
+        "laya": "Drut laya",
+        "composer": "Niyamat Khan 'Sadarang'",
+        "lyrics": "बालम रे मोरे मन के चीत होवन दे रे\nहोवन दे रे मीत पियरवा ।\n\nसदारंग जिन जावो बिदेसवा\nसुख नींदरिया सोवन दे रे\nसोवन दे रे मीत पियरवा ॥",
+        "lyrics_roman": "baalama re more mana ke cheeta hovana de re\nhovana de re meeta piyaravaa |\n\nsadaaraMga jina jaavo bidesavaa\nsukha neeMdariyaa sovana de re\nsovana de re meeta piyaravaa ||"
+      }
+    ]
   }
 ]
