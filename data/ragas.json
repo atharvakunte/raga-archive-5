@@ -1,44 +1,5 @@
 [
   {
-    "id": "yaman",
-    "name": "Yaman",
-    "thaat": "Kalyan",
-    "time": "Pratham prahar of ratri, just after sunset to about 9 pm",
-    "aroha": "N R G M(tivra) D N Ṡ",
-    "avaroha": "Ṡ N D P M(tivra) G R S",
-    "vadi": "Ga",
-    "samvadi": "Ni",
-    "description": "Yaman is one of the most fundamental ragas of Hindustani music and is often the first raga a student learns. It uses all shuddha swaras except the tivra Madhyam. Its phrases often begin with the Ni below the tonic (Ni Re Ga), and it is sung after sunset.",
-    "slot": "Evening",
-    "rasa": "Shanta and shringar"
-  },
-  {
-    "id": "bhairav",
-    "name": "Bhairav",
-    "thaat": "Bhairav",
-    "time": "Pratham prahar of din, dawn to about 9 am",
-    "aroha": "S r(komal) G M P d(komal) N Ṡ",
-    "avaroha": "Ṡ N d P M G r S",
-    "vadi": "Dha (komal)",
-    "samvadi": "Re (komal)",
-    "description": "Bhairav is a morning raga with komal Re and komal Dha. It is characterised by the slow oscillation (andolan) on the komal Dha and Re, which gives it a grave and prayerful mood.",
-    "slot": "Early morning",
-    "rasa": "Shanta and bhakti"
-  },
-  {
-    "id": "bageshri",
-    "name": "Bageshri",
-    "thaat": "Kafi",
-    "time": "Dwitiya prahar of ratri, about 9 pm to midnight",
-    "aroha": "S M D N(komal) Ṡ",
-    "avaroha": "Ṡ N(komal) D M P D M G(komal) R S",
-    "vadi": "Ma",
-    "samvadi": "Sa",
-    "description": "Bageshri is a late-night raga of longing (viraha). It uses komal Ga and komal Ni, and the Pa is used sparingly. It is popular in both khayal and light classical forms.",
-    "slot": "Night",
-    "rasa": "Shringar (longing)"
-  },
-  {
     "id": "shuddha-kalyan",
     "name": "Shuddha Kalyan",
     "thaat": "Kalyan",
