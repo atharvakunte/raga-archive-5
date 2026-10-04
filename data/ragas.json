@@ -37,5 +37,18 @@
     "description": "Bageshri is a late-night raga of longing (viraha). It uses komal Ga and komal Ni, and the Pa is used sparingly. It is popular in both khayal and light classical forms.",
     "slot": "Night",
     "rasa": "Shringar (longing)"
+  },
+  {
+    "id": "shuddha-kalyan",
+    "name": "Shuddha Kalyan",
+    "thaat": "Kalyan",
+    "slot": "Night",
+    "time": "First prahar of night",
+    "rasa": "Shanta, Shringara and Bhakti",
+    "aroha": "S R G P D Ṡ",
+    "avaroha": "Ṡ N D P m G R S",
+    "vadi": "Ga",
+    "samvadi": "Dha",
+    "description": "A popular early night raga, Shuddha Kalyan ascends with the same five swaras as Bhupali (SRGPDS), and descends with the full seven of Yaman (SNDPMGRS), leading some to title it ‘Bhoop-Kalyan’."
   }
 ]
