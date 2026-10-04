@@ -1,0 +1,11 @@
+{
+  "name": "raga-sangrah",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A personal archive of raga recordings, bandish lyrics and raga notes.",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "validate": "node scripts/validate-data.mjs"
+  }
+}
