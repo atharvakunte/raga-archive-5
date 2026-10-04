@@ -24,5 +24,18 @@
     "vadi": "Ga",
     "samvadi": "Ni",
     "description": "Created via the artful grafting of tivra Ma onto a Bilawal-oriented base, Bihag contains a wealth of melodic possibilities. Long linked to late evening festivities, its meend-laden tendencies are explored with expressive articulations and fluid resolution phrases, guided by nuanced swara hierarchies which may display significant gharana-to-gharana variance."
+  },
+  {
+    "id": "bhoopali",
+    "name": "Bhoopali",
+    "thaat": "Kalyan",
+    "slot": "Night",
+    "time": "1st Prahar of the Night",
+    "rasa": "Bhakti, Shaant",
+    "aroha": "S R G P D Ṡ",
+    "avaroha": "Ṡ D P G R S",
+    "vadi": "Ga",
+    "samvadi": "Dha",
+    "description": "Hailed for its structural simplicity, Bhupali is often among the first ragas taught to Hindustani students. While its basic ‘Major Pentatonic‘ scale form is shared by countless global cultures, the North Indian incarnation (named for Madhya Pradesh’s Bhopal region) presents its own quirks – invoking tranquillity and home-bound reassurance with interlinked sliding motions between Sa and shuddha Dha (SRS; S\\DS) amidst a generally Kalyanic character"
   }
 ]
