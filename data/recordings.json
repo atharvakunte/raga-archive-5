@@ -68,5 +68,39 @@
         "lyrics_roman": "baalama re more mana ke cheeta hovana de re\nhovana de re meeta piyaravaa |\n\nsadaaraMga jina jaavo bidesavaa\nsukha neeMdariyaa sovana de re\nsovana de re meeta piyaravaa ||"
       }
     ]
+  },
+  {
+    "id": "bhoopali-raag-bhoopali-aditya-modak",
+    "raga": "bhoopali",
+    "title": "Raag Bhoopali - Aditya Modak",
+    "artist": "Aditya Modak",
+    "instrument": "Vocal",
+    "youtube": "https://youtu.be/BR7aiaKuFPg?si=h9rLM1Dag2u4noMO",
+    "bandishes": [
+      {
+        "title": "Jab hi sab nirpat",
+        "taal": "Tilwada",
+        "laya": "Vilambit laya",
+        "lyrics": "जब ही सब निरपत निरास भये ।\nगुरुपद कमल वंदे\nरघुपत तब चाप समीप गये ॥",
+        "lyrics_roman": "jaba hee saba nirapata niraasa bhaye |\ngurupada kamala vaMde\nraghupata taba chaapa sameepa gaye ||"
+      },
+      {
+        "title": "Nu mana jobana maanadaa",
+        "start": "35:08",
+        "taal": "Teentaal",
+        "laya": "Drut laya",
+        "composer": "Ghulam Nabi Shori 'Shori Miyan'",
+        "lyrics": "नू मन जोबन मानदा\nवे मिया सीधी नजरा वेखणदा ।\n\nइष्क तांडा मांडे जिंदडी रेंदा\nहाल हुसनदा शोरी मा ॥",
+        "lyrics_roman": "noo mana jobana maanadaa\nve miyaa seedhee najaraa vekhaNadaa |\n\niShka taaMDaa maaMDe jiMdaDee reMdaa\nhaala husanadaa shoree maa ||"
+      },
+      {
+        "title": "Jabase tumisana laagalee",
+        "start": "43:08",
+        "taal": "Teentaal",
+        "laya": "Drut laya",
+        "lyrics": "जबसे तुमिसन लागली\nप्रीत नवेलरी प्यारे बल्मा मोरे ।\n\nजो नैनन ना देखूँ तोहे\nकल ना परत मोहे\nचर्चा करे सब सहेलरियाँ ॥",
+        "lyrics_roman": "jabase tumisana laagalee\npreeta navelaree pyaare balmaa more |\n\njo nainana naa dekhooAO tohe\nkala naa parata mohe\ncharchaa kare saba sahelariyaaAO ||"
+      }
+    ]
   }
 ]
