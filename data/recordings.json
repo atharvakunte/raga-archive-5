@@ -16,5 +16,31 @@
         "lyrics_roman": "e ree maaee piyaa aave more maMdaravaa\nkara hooM mana basa |\n\npalakana Dagara buhaaroo ree\njaba aave more rasa ke raMgeele ||"
       }
     ]
+  },
+  {
+    "id": "shuddha-kalyan-raag-shuddha-kalyan-pt-venkatesh-kumar-2014",
+    "raga": "shuddha-kalyan",
+    "title": "Raag Shuddha Kalyan - Pt. Venkatesh Kumar (2014)",
+    "artist": "Pt. Venkatesh Kumar",
+    "instrument": "Vocal",
+    "youtube": "https://youtu.be/slL74iXmY14?si=bbnfiXU7jpGHsRF0",
+    "bandishes": [
+      {
+        "title": "Tuma bina kauna khabariyaa le",
+        "taal": "Ektaal",
+        "laya": "Vilambit laya",
+        "lyrics": "तुम बिन कौन खबरिया ले\nबिना राम रघुनाथ दयाघन ।\n\nदूध पूत और अनधन लक्ष्मी\nविद्या दे करतार ॥",
+        "lyrics_roman": "tuma bina kauna khabariyaa le\nbinaa raama raghunaatha dayaaghana |\n\ndoodha poota aura anadhana lakShmee\nvidyaa de karataara ||"
+      },
+      {
+        "title": "Mandara baajo re baajo re",
+        "start": "34:16",
+        "taal": "Teentaal",
+        "laya": "Drut laya",
+        "composer": "Niyamat Khan 'Sadarang'",
+        "lyrics": "मन्दर बाजो रे बाजो रे\nबाजो रे घनेरा ।\n\nमोहम्मदशाह पिया मन के दरसवा\nसदारंग घर काजो रे बाजो रे ॥",
+        "lyrics_roman": "mandara baajo re baajo re\nbaajo re ghaneraa |\n\nmohammadashaaha piyaa mana ke darasavaa\nsadaaraMga ghara kaajo re baajo re ||"
+      }
+    ]
   }
 ]
