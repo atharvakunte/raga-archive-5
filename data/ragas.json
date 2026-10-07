@@ -37,5 +37,17 @@
     "vadi": "Ga",
     "samvadi": "Dha",
     "description": "Hailed for its structural simplicity, Bhupali is often among the first ragas taught to Hindustani students. While its basic ‘Major Pentatonic‘ scale form is shared by countless global cultures, the North Indian incarnation (named for Madhya Pradesh’s Bhopal region) presents its own quirks – invoking tranquillity and home-bound reassurance with interlinked sliding motions between Sa and shuddha Dha (SRS; S\\DS) amidst a generally Kalyanic character"
+  },
+  {
+    "id": "chayanat",
+    "name": "Chayanat",
+    "thaat": "Kalyan",
+    "slot": "Night",
+    "time": "First Prahar of Night",
+    "aroha": "Sa Re Ga Ma Pa, Dha Ni Sa'",
+    "avaroha": "Sa' Ni Dha Pa, Ma Pa Dha Pa, Ga Ma Re Sa",
+    "vadi": "Pa",
+    "samvadi": "Re",
+    "description": "Raag Chhayanat is a prominent and melodious Hindustani classical raga belonging to the Kalyan Thaat, formed by combining the characteristics of two distinct melodies: Chhaya and Nat."
   }
 ]
