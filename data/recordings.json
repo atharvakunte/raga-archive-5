@@ -102,5 +102,36 @@
         "lyrics_roman": "jabase tumisana laagalee\npreeta navelaree pyaare balmaa more |\n\njo nainana naa dekhooAO tohe\nkala naa parata mohe\ncharchaa kare saba sahelariyaaAO ||"
       }
     ]
+  },
+  {
+    "id": "chayanat-raag-chayanat-pt-ulhas-kashalkar-2018",
+    "raga": "chayanat",
+    "title": "Raag Chayanat - Pt. Ulhas Kashalkar (2018)",
+    "artist": "Pt. Ulhas Kashalkar",
+    "instrument": "Vocal",
+    "youtube": "https://youtu.be/MINE2IP-9zA?si=Yt8Q9u_ZEKB-9O0y",
+    "bandishes": [
+      {
+        "title": "E karata ho moso",
+        "taal": "Jhoomra",
+        "laya": "Vilambit laya",
+        "lyrics": "ए करत हो मोसो\nनेहा की झूठी झूठी\nबतीया बनाए बनाए ।\nवे तो हमहूं जानत तुमहूं जानत\nसरस जग जानत\nहियर सो हियरा देत जनाए ॥",
+        "lyrics_roman": "e karata ho moso\nnehaa kee jhooThee jhooThee\nbateeyaa banaae banaae |\nve to hamahUM jaanata tumahUM jaanata\nsarasa jaga jaanata\nhiyara so hiyaraa deta janaae ||"
+      },
+      {
+        "title": "Eree maalaniyaa goonda laavo ree",
+        "taal": "Teentaal",
+        "laya": "Drut laya",
+        "lyrics": "एरी मालनिया गूँद लावो री\nचंदन अरगजा पिया गरे डारूंगी ।\n\nचुनचुन कलिया दौना मरवा\nपियु संग हिलमिल नवेलरिया ॥",
+        "lyrics_roman": "eree maalaniyaa gooAOda laavo ree\nchaMdana aragajaa piya gare DaarooMgee |\n\nchunachuna kaliyaa daunaa maravaa\npiyu saMga hilamila navelariyaa ||"
+      },
+      {
+        "title": "Tarana",
+        "taal": "Teentaal",
+        "laya": "Drut laya",
+        "lyrics": "दरना दर तों दरा दर दिं\nदिं तदिं दर दरा तों दरा तदरे दरा दोस् तदिं ।\n\nतदरे तों तदरे तन देरेना\nतन तों तनन तों तदिं तनन देरेना तदिं तदिं तदिं ॥",
+        "lyrics_roman": "daranaa dara toM daraa dara diM\ndiM tadiM dara daraa toM daraa tadare daraa dos tadiM |\n\ntadare toM tadare tana derenaa\ntana toM tanana toM tadiM tanana derenaa tadiM tadiM tadiM ||"
+      }
+    ]
   }
 ]
