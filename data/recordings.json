@@ -133,5 +133,38 @@
         "lyrics_roman": "daranaa dara toM daraa dara diM\ndiM tadiM dara daraa toM daraa tadare daraa dos tadiM |\n\ntadare toM tadare tana derenaa\ntana toM tanana toM tadiM tanana derenaa tadiM tadiM tadiM ||"
       }
     ]
+  },
+  {
+    "id": "bihag-raag-bihag-veena-sahasrabuddhe",
+    "raga": "bihag",
+    "title": "Raag Bihag - Veena Sahasrabuddhe",
+    "artist": "Vid. Veena Sahasrabuddhe",
+    "instrument": "Vocal",
+    "youtube": "https://youtu.be/j6DlmUaxnhQ?si=nkNOtyHKuFm4YuFj",
+    "bandishes": [
+      {
+        "title": "Kaise Sukh Sove",
+        "taal": "Ektaal",
+        "laya": "Vilambit laya",
+        "lyrics": "कैसे सुख सोवे नींदरिया\nश्याम मूरत चित चढी ।\n\nसोचे सोचे सदारंग अकुलावे\nया बिध गांठ परी ॥",
+        "lyrics_roman": "kaise sukha sove neeMdariyaa\nshyaama moorata chita chaDhee |\n\nsoche soche sadaaraMga akulaave\nyaa bidha gaaMTha paree ||"
+      },
+      {
+        "title": "Le ja re ja re pathikawa",
+        "taal": "Teentaal",
+        "laya": "Drut laya",
+        "composer": "Chintaman Raghunath Vyas 'Guni Jaan'",
+        "lyrics": "ले जा रे जा रे पथिकवा\nइतनो संदेसा पिया को\nसुख चैन मोहे कछुक नहि भावे ।\nकीजे न मोसे निठुराई ऐसी\nबेग मिल आवो दरस की प्यासी\nबिन गुनिजान कैसे सुख पावे ॥",
+        "lyrics_roman": "le jaa re jaa re pathikavaa\nitano saMdesaa piyaa ko\nsukha chaina mohe kaChuka nahi bhaave |\nkeeje na mose niThuraaee aisee\nbega mila aavo darasa kee pyaasee\nbina gunijaana kaise sukha paave ||"
+      },
+      {
+        "title": "Tarana",
+        "taal": "Ada Chautaal",
+        "laya": "Drut laya",
+        "composer": "Balwantrai Bhat 'Bhaaw Rang'",
+        "lyrics": "तन तदारे दानी तदानी दीम्\nतन तदारे दानी तदानी दीम्\nतनत देरेदानी तनन दीम् तनन दीम्\nतन नित देरे दानी दानी\nतदारे दानी तदानी दीम् ।\nयाले याले यला\nयाले याले यला\nयललीया याल यलला यला यला यला\nसाम ग, गप म, मध प, पसा नी, नीरे सा\nग गरे सानी धप मप गम ग\nग गरे सानी धप मप गम ग\nग गरे सानी धप मप गम ग ॥",
+        "lyrics_roman": "tana tadaare daanee tadaanee deem\ntana tadaare daanee tadaanee deem\ntanata deredaanI tanana deem tanana deem\ntana nita dere daanee daanee\ntadaare daanee tadaanee deem |\nyaale yaale yalaa\nyaale yaale yalaa\nyalaleeyaa yaala yalalaa yalaa yalaa yalaa\nsaama ga, gapa ma, madha pa, pasaa nee, neere saa\nga gare saanee dhapa mapa gama ga\nga gare saanee dhapa mapa gama ga\nga gare saanee dhapa mapa gama ga ||"
+      }
+    ]
   }
 ]
